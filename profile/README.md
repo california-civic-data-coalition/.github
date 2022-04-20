@@ -1,0 +1,9 @@
+The California Civic Data Coalition is an open-source network of journalists and computer programmers from news organizations across America.
+
+The coalition was formed in 2014 by [Ben Welsh](https://palewi.re/who-is-ben-welsh/) and Agustin Armendariz to lead the development of open-source software that makes California's public data easier to access and analyze. The effort has drawn hundreds of contributions from developers and journalists at dozens of news organizations.
+
+The group helped open up the jumbled, difficult database tracking campaign finance and lobbying activity in state politics. That work resulted in [improved](https://www.latimes.com/politics/la-pol-ca-antonio-villaraigosa-charter-school-money-governor-20180514-story.html) [coverage](https://www.theverge.com/2017/11/16/16658358/vape-lobby-vaping-health-risks-nicotine-big-tobacco-marketing) [of](https://www.latimes.com/politics/la-pol-ca-newsom-cannabis-20170727-story.html) [the topic](https://www.latimes.com/local/politics/la-me-pol-brown-money-20141031-story.html), including some of the most [comprehensive](https://www.latimes.com/projects/props-california-2020-election-money/) and [probing](https://www.latimes.com/projects/props-california-2020-election-money/) analysis ever done of money at the statehouse.
+
+Funded in part by a [Knight News Challenge grant](https://www.californiacivicdata.org/2015/07/22/knight-news-challenge/), the coalition’s effort has also yielded a [groundbreaking tool](https://www.californiacivicdata.org/2017/09/05/django-postgres-copy-2/) for database imports and [data journalism curriculum](https://www.firstpythonnotebook.org/about/index.html) that has been taught in classrooms and conferences around the world.
+
+The repositories once stored in this organization have been relocated to [Welsh’s GitHub account](https://github.com/palewire).
